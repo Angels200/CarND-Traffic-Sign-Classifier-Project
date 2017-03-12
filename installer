@@ -1,0 +1,5 @@
+#!/bin/bash
+#install all the dependencies of the CarND-Traffic-Sign-Classifier Project
+
+pip install tqdm
+
